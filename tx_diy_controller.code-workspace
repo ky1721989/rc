@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"name": "tx_diy_controller",
+			"path": "."
+		},
+		{
+			"name": "lib",
+			"path": "../../lib"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"initializer_list": "cpp",
+			"*.tcc": "cpp",
+			"exception": "cpp",
+			"fstream": "cpp",
+			"iosfwd": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"algorithm": "cpp",
+			"list": "cpp",
+			"ios": "cpp",
+			"xstring": "cpp",
+			"string_view": "cpp",
+			"xhash": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"functional": "cpp",
+			"memory": "cpp",
+			"system_error": "cpp",
+			"xlocale": "cpp",
+			"xiosbase": "cpp",
+			"shared_mutex": "cpp",
+			"random": "cpp",
+			"xlocbuf": "cpp",
+			"*.rh": "cpp",
+			"numeric": "cpp",
+			"typeinfo": "cpp",
+			"locale": "cpp",
+			"xlocinfo": "cpp",
+			"xlocnum": "cpp",
+			"xloctime": "cpp",
+			"xstddef": "cpp",
+			"xxatomic": "cpp"
+		}
+	}
+}
